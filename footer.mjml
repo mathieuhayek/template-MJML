@@ -1,0 +1,24 @@
+<mj-section background-color="#1E2D78">
+		<mj-column width='50px'>
+      </mj-column>
+    <mj-column>	
+  	<mj-image width='35px' src="facebook.png"></mj-image>
+  </mj-column>
+  <mj-column>	
+  		<mj-image width='35px' src="instagram.png"></mj-image>
+  </mj-column>
+  <mj-column>	
+  	<mj-image width='35px' src="twitter.png"></mj-image>
+  </mj-column>
+  <mj-column>	
+  	<mj-image width='35px' src="youtube2.png"></mj-image>
+  </mj-column>
+  <mj-column width='50px'>
+      </mj-column>
+    	
+     
+     
+     
+    
+
+</mj-section>

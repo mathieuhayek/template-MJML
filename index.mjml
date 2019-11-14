@@ -1,0 +1,74 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      .link-color { color: #11808D; }
+    </mj-style>
+    <mj-attributes>
+      <mj-text align="center" color="#555" /> </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-include path="./header.mjml" />
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text align="center">
+          <h2>Notre Dame De Paris</h2>
+        </mj-text>
+      </mj-column>
+     </mj-section>
+    <mj-section>
+    	<mj-column>
+        <mj-text>Notre-Dame de Paris (/ˌnɒtrə ˈdɑːm, ˌnoʊtrə ˈdeɪm, ˌnoʊtrə ˈdɑːm/;[4][5][6] French: [nɔtʁə dam də paʁi] (About this soundlisten); meaning "Our Lady of Paris"), also known as Notre-Dame Cathedral or simply Notre-Dame, is a medieval Catholic cathedral on the Île de la Cité in the fourth arrondissement of Paris, France.[a] The cathedral was considered to be one of the finest examples of French Gothic architecture.<a href='https://en.wikipedia.org/wiki/Notre-Dame_de_Paris' class="link-color">The cathedral was considered to be one of the finest examples of French Gothic architecture</a></mj-text>
+        <mj-image width="200px" src="notredame1.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    	<mj-column>
+      	<mj-text>The cathedral was begun in 1160 under Bishop Maurice de Sully and largely completed by 1260, though it was modified frequently in the following centuries</mj-text>
+      </mj-column>
+      <mj-column>
+      	<mj-text>In the 1790s, Notre-Dame suffered desecration during the French Revolution when much of its religious imagery was damaged or destroyed. <a href='https://en.wikipedia.org/wiki/Notre-Dame_de_Paris' class="link-color">In 1804,</mj-text>
+      </mj-column>	
+    </mj-section>
+    <mj-section>
+      <mj-column>
+      		<mj-button background-color='#32D0BB'> Read More </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    		<mj-column>
+      			<mj-image width="200px" src="notredame2.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center">
+          <h3>Notre Dame burns</h3>
+        </mj-text>
+      		<mj-text>Notre-Dame Cathedral went up in flames on Monday in a roaring blaze that devastated the Parisian landmark, a searing loss for the city and for France. Here are five facts on the Gothic masterpiece that celebrated its 850th jubilee in 2013:</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+       <mj-column>
+         <mj-text align="center">
+          <h3>After 850 years<br>she turns to ash :(</br></h3>
+        </mj-text>
+      		<mj-text>The first stone of the Notre-Dame de Paris (“Our Lady of Paris”) cathedral was laid in 1163 in the reign of Louis VII, as the medieval city of Paris was growing in population and importance, both as a political and economic center of the kingdom of France. </mj-text>
+      </mj-column>
+    		<mj-column>
+      			<mj-image width="200px" src="notredame3.png"></mj-image>
+      </mj-column>
+     
+    </mj-section>
+    <mj-section>
+      	
+    		<mj-column>
+      			<mj-image width="200px" src="notredame4.png"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center">
+          <h3>Precious</h3>
+        </mj-text>
+      		<mj-text>the second construction would continue for much of the next century, with major restoration and additions made in the 17th and 18th century. The stonework and stained glass of the edifice recreate images and lessons from the Bible. <br></br>
+        <a href='https://www.reuters.com/article/us-france-notredame-facts-factbox/notre-dame-cathedral-burns-five-facts-idUSKCN1RR21T' class="link-color">Keep reading</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-include path="./footer.mjml" /> </mj-body>
+</mjml>
